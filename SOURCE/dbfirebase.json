@@ -1,0 +1,448 @@
+{
+  "BanggiaTour" : [ null, {
+    "giaTour" : "2000000",
+    "ngayApDung" : "11/06/2019"
+  }, {
+    "giaTour" : "3000000",
+    "ngayApDung" : "22/06/2019"
+  }, {
+    "giaTour" : "4000000",
+    "ngayApDung" : "5/07/2019"
+  }, {
+    "giaTour" : 3500000,
+    "ngayApDung" : "05/07/2019"
+  }, {
+    "giaTour" : 1500000,
+    "ngayApDung" : "05/12/2019"
+  }, {
+    "giaTour" : 1200000,
+    "ngayApDung" : "05/11/2020"
+  }, {
+    "giaTour" : 1200000,
+    "ngayApDung" : "06/11/2020"
+  }, {
+    "giaTour" : 1200000,
+    "ngayApDung" : "02/11/2020"
+  }, {
+    "giaTour" : 5000000,
+    "ngayApDung" : "23/06/2020"
+  }, {
+    "giaTour" : 1400000,
+    "ngayApDung" : "23/01/2020"
+  } ],
+  "CTCungCapDV" : [ null, {
+    "doiTacKey" : "1",
+    "donGia" : "100000",
+    "loaiDichVuKey" : "1"
+  }, {
+    "doiTacKey" : "2",
+    "donGia" : "200000",
+    "loaiDichVuKey" : "2"
+  }, {
+    "doiTacKey" : "3",
+    "donGia" : "50000",
+    "loaiDichVuKey" : "3"
+  }, {
+    "doiTacKey" : 4,
+    "donGia" : 30000,
+    "loaiDichVuKey" : 4
+  }, {
+    "doiTacKey" : 5,
+    "donGia" : 40000,
+    "loaiDichVuKey" : 5
+  }, {
+    "doiTacKey" : 6,
+    "donGia" : 50000,
+    "loaiDichVuKey" : 6
+  }, {
+    "doiTacKey" : 7,
+    "donGia" : 55000,
+    "loaiDichVuKey" : 7
+  }, {
+    "doiTacKey" : 8,
+    "donGia" : 55000,
+    "loaiDichVuKey" : 8
+  }, {
+    "doiTacKey" : 9,
+    "donGia" : 60000,
+    "loaiDichVuKey" : 9
+  }, {
+    "doiTacKey" : 10,
+    "donGia" : 60000,
+    "loaiDichVuKey" : 10
+  } ],
+  "ChiTietTour" : [ null, {
+    "hinh1" : "https://firebasestorage.googleapis.com/v0/b/tourmanager-7dcde.appspot.com/o/ChiTietTour%2Fhotuyenlam.jpg?alt=media&token=dedddb06-0e9f-4ac4-b9b6-89a18f2a3e7f",
+    "hinh2" : "https://firebasestorage.googleapis.com/v0/b/tourmanager-7dcde.appspot.com/o/ChiTietTour%2Fhousestar.jpg?alt=media&token=541bf0aa-f4bc-44c0-9dec-7b15fd109461",
+    "maTour" : "1",
+    "moTa1" : "NGÀY 01: TP.HCM - ĐÀ LẠT (Ăn sáng, trưa, chiều) Đón quý khách tại văn phòng của Lữ Hành Saigontourist ( Lúc 06h00 sáng tại số 1 Nguyễn Chí Thanh, Q5 hoặc lúc 06h30 sáng tại 102 Nguyễn Huệ, Q1) khởi hành đi Đà Lạt. Đến Đà Lạt, nhận phòng và nghỉ đêm tại Swiss-Belresort (Hồ Tuyền Lâm, TP. Đà Lạt)",
+    "moTa2" : "NGÀY 02: THAM QUAN ĐÀ LẠT (Ăn sáng, trưa / Ăn chiều tự túc) Buổi sáng, xe đưa quý khách tham quan Đường hầm điêu khắc đất đỏ (Đà Lạt Star) với hồ Vô Cực - Nơi Tình Yêu Bắt Đầu và các công trình bằng đất sét tái hiện lịch sử trăm năm cùa thành phố hoa. Buổi chiều, quý khách tự do lựa chọn 1 trong 2 chương trình sau:  - Quý khách tự do nghỉ dưỡng & tận hưởng các dịch vụ tại Swiss-Belresort nơi được bao quanh bởi những đồi thông và nằm giữa một sân golf 18 lỗ. - Xe đưa quý khách đi tham quan Ga Đà Lạt – nhà ga cổ kính, độc đáo tại Đà Lạt. Tiếp tục tham quan Quảng trường Lâm Viên với không gian rộng lớn hướng ra hồ Xuân Hương và khối nụ hoa Atiso khổng lồ được thiết kế bằng kính màu đẹp mắt. Mua sắm đặc sản tại chợ Đà Lạt. Đoàn tự túc ăn chiều, khám phá ẩm thực phố núi. Nghỉ đêm tại resort.",
+    "moTa3" : "NGÀY 03: ĐÀ LẠT - TP.HCM (Ăn sáng, trưa) Sau bữa sáng, quý khách nghỉ ngơi, thư giãn, đến giờ hẹn trả phòng. Dừng chân viếng Thiền Viện Trúc Lâm. Khởi hành về TP.HCM. Đến TP. HCM, xe đưa quý khách về điểm đón ban đầu. Kết thúc chương trình."
+  }, {
+    "hinh1" : "https://firebasestorage.googleapis.com/v0/b/tourmanager-7dcde.appspot.com/o/ChiTietTour%2Fhinh1.jpg?alt=media&token=580a597e-b544-4e06-8247-abf7beaec239",
+    "hinh2" : "https://firebasestorage.googleapis.com/v0/b/tourmanager-7dcde.appspot.com/o/ChiTietTour%2Fhinh2.jpg?alt=media&token=fc121f03-ba2e-49a8-9c22-ff2728aca77f",
+    "maTour" : "2",
+    "moTa1" : "NGÀY 01: TP. HỒ CHÍ MINH - PHÚ QUỐC (Ăn sáng, trưa) Buổi sáng, quý khách tập trung tại Cổng D4, Ga đi trong nước, sân bay Tân Sơn Nhất. Khởi hành đi Phú Quốc trên chuyến bay VJ321 lúc 06:00. Đến Phú Quốc, đoàn khởi hành đi phía Đông đảo, tham quan điểm trại chó, vườn tiêu, lò chế biến rượu Sim rừng Phú Quốc, cơ sở nước mắm Phú Quốc. Nhận phòng. Buổi chiều tối tự do dạo chợ đêm Dinh Cậu, ăn chiều tự túc. Nghỉ đêm tại Phú Quốc. Lựa chọn (tự túc chi phí tham quan & di chuyển):  - Tham quan Khu vui chơi giải trí Vinpearl Land Phú Quốc với các trò chơi trong nhà, trò chơi ngoài trời Đĩa quay siêu tốc, Cối xay gió, Đĩa bay…, Lâu đài Cổ tích; Khu công viên nước với các trò chơi mạo hiểm: Boomerang khổng lồ, Đường trượt siêu lòng chảo…;; Khu Thủy Cung với hàng trăm loài sinh vật biển quý hiếmThưởng thức chương trình biểu diễn nhạc nước, biểu diễn cá heo, nàng tiên cá,… - Khám phá Khu Vinpearl Safari: khám phá Vườn Thú Hoang Dã đầu tiên tại Việt Nam với quy mô 180ha, cùng hơn 130 loài động vật quý hiếm và các chương trình Biểu diễn động vật, Chụp ảnh với động vật, Khám phá và trải nghiệm Vườn thú mở trong rừng tự nhiên, gần gũi và thân thiện với con người. - Trải nghiệm cáp treo xác lập kỷ lục thế giới mới “Cáp treo 3 dây vượt biển dài nhất thế giới tại Hòn Thơm với tổng chiều dài 7.899.9m,thời gian di chuyển 15 phút . Cáp treo sẽ đưa du khách đến với một hành trình du ngoạn kỳ thú trên cao, để thu vào tầm mắt 360 độ vẻ đẹp tựa thiên đường của biển, đảo, rừng xanh và những bãi tắm trong cụm đảo An Thới, Nam Phú Quốc. Bước xuống cáp treo, du khách sẽ được thỏa sức tận hưởng vẻ đẹp của Hòn Thơm với bãi tắm cát trắng mịn, nước trong veo màu ngọc bích bên rừng già hoang sơ và những bãi đá được tự nhiên sắp xếp ngoạn mục. hứa hẹn đem đến một kỳ nghỉ khó quên.",
+    "moTa2" : "NGÀY 02: PHÚ QUỐC - CÂU CÁ - NGẮM SAN HÔ (Ăn sáng, trưa, chiều) Sau bữa sáng, đến tham quan trung tâm nuôi cấy ngọc trai Phú Quốc. Lên thuyền du ngoạn trên biển, thử tài câu cá, trải nghiệm cuộc sống của ngư dân, bơi lội giữa biển và ngắm san hô với những sắc màu tuyệt đẹp. Tắm biển Bãi Sao (hoặc bãi Ông Lang tùy điều kiện thời tiết) - một trong những bãi biển đẹp nhất tại Phú Quốc. Buổi chiều tham quan di tich nhà tù Phú Quốc, viếng Dinh Bà - Thủy Long Thánh Mẫu (Thần Nước), Dinh Cậu. Trở về khách sạn nghỉ ngơi. Tối sinh hoạt tự do. - Tham gia loại hình du lịch mới “Đi bộ dưới đáy biển” tại Bãi Sao: Tại đây du khách được nhân viên chuyên nghiệp hướng dẫn và dắt bạn đến với đáy dại dương. Bạn được dạo bước giữa dòng đại dương tận mắt nhìn những rạn san hô đẹp và rất nhiều loài cá quý tại công viên bảo tồn san hô đầu tiên và duy nhất tại Phú Quốc, được cấp phép bởi cơ quan bảo tồn biển Phú Quốc (tự túc chi phí).",
+    "moTa3" : "NGÀY 03: PHÚ QUỐC - TP. HỒ CHÍ MINH (Ăn sáng, trưa,chiều ) Quý khách tự do tắm biển Phú Quốc, trả phòng. Xe đưa quý khách đi phía Đông đảo, tham quan điểm Vườn tiêu, Lò chế biến rượu Sim rừng Phú Quốc, Cơ sở nước mắm Phú Quốc. Sau đó, ra sân bay Phú Quốc bay về Tp.Hồ Chí Minh trên chuyến bay VN1832 lúc 19:40 hoặc chuyến bay VN1832 lúc 20h10. Kết thúc chương trình. (Quý khách tự túc phương tiện từ sân bay về lại nhà)."
+  }, {
+    "hinh1" : "https://firebasestorage.googleapis.com/v0/b/tourmanager-7dcde.appspot.com/o/ChiTietTour%2Fhinh1_phanthiet.jpg?alt=media&token=acc2da33-1d65-40e6-a905-c4adf88fd374",
+    "hinh2" : "https://firebasestorage.googleapis.com/v0/b/tourmanager-7dcde.appspot.com/o/ChiTietTour%2Fhinh2_phanthiet.jpg?alt=media&token=0542ef50-c9d8-4c7a-9595-4978d026f41a",
+    "maTour" : "3",
+    "moTa1" : "Ngày 01: CẦN THƠ – PHAN THIẾT – MŨI NÉ (Ăn sáng, trưa, chiều)Sáng: Hướng dẫn viên đón khách tại văn phòng Lữ hành Saigontourist Cần Thơ (vào lúc 02h00 tại 104-106 Nguyễn An Ninh). Khởi hành đi Phan Thiết. Đến Phan Thiết đoàn tham quan Trường Dục Thanh, Vạn Thủy Tú – Nơi trưng bày Bộ xương Cá Voi khổng lồ. Tiếp tục Tham quan cơ sở Tranh Cát Phi Long. Sau đó nhận phòng khách sạn nghỉ ngơi.Chiều: Quý khách tự do tắm biển tại Resort. Tối: Nghỉ đêm tại Mũi Né",
+    "moTa2" : "Ngày 02:  KHÁM PHÁ PHAN THIẾT (Ăn sáng, trưa, chiều) Sáng: Chinh phục Đồi Cát Hồng – Tiểu sa mạc Cát Vàng. Tại đây quý khách có thể tham gia các trò chơi trượt cát, Chiều: Quý khách tham quan Lâu Đài Rượu Vang – Nơi trưng bày hàng trăm loại rượu vang dưới lòng đất.Tối: Nghỉ đêm tại Mũi Né. Quý khách có thể tự túc đến xem nhạc kịch nước Huyền Thoại Làng Chài - show giải trí đặc sắc và đậm nét văn hóa làng chài của Phan Thiết - Bình Thuận.",
+    "moTa3" : "Ngày 03: PHAN THIẾT - TÀ KÚ – CẦN THƠ (Ăn sáng, trưa, chiều) Sáng: Sau khi dùng điểm tâm sáng, đoàn làm thủ tục trả phòng khách sạn. đến Hàm Thuận Nam – Phan Thiết viếng chùa Linh Sơn Trường Thọ – nơi có tượng phật Nhập Niết Bàn dài 49m. Chiều: Khởi hành về Cần Thơ. Trên đường, HDV tổ chức chương trình giao lưu văn nghệ góp vui cho cả đoàn. Kết thúc chương trình."
+  }, {
+    "hinh1" : "https://firebasestorage.googleapis.com/v0/b/tourmanager-7dcde.appspot.com/o/ChiTietTour%2Fhinh1_ninhbinh.jpg?alt=media&token=9c4e9a2c-fa09-4577-aba5-1d25b4f618b3",
+    "hinh2" : "https://firebasestorage.googleapis.com/v0/b/tourmanager-7dcde.appspot.com/o/ChiTietTour%2Fhinh2_ninhbinh.jpg?alt=media&token=715700ab-8f59-4ecd-851a-e6e110614dbd",
+    "maTour" : "4",
+    "moTa1" : "NGÀY 01: TP. HCM - HÀ NỘI (Ăn trưa, chiều) Buổi sáng, quý khách tập trung tại Cổng D1 - Ga đi trong nước - Sân bay Tân Sơn Nhất. Hướng dẫn viên của Lữ hành Saigontourist đón quý khách và hỗ trợ làm thủ tục. Khởi hành ra Hà Nội trên chuyến bay VN216 lúc 07:00. Đến Hà Nội, tham quan làng gốm Bát Tràng với tuổi đời hơn 500 năm, từng sản xuất những loại gốm quý và độc đáo. Tham quan Hoàng Thành Thăng Long, ngắm cột cờ Hà Nội.. Vãn cảnh hồ Hoàn Kiếm, viếng đền Ngọc Sơn. Buổi tối, tự do dạo bộ dọc theo “36 phố phường”- khu phố cổ với những ngành nghề đặc trưng và truyền thống của cư dân Thủ đô. Nghỉ đêm tại Hà Nội.",
+    "moTa2" : "NGÀY 02: HÀ NỘI  - NINH BÌNH - HÀ NỘI (Ăn sáng, trưa, chiều) Buổi sáng, khởi hành đi Ninh Bình. Viếng chùa Bái Đính - ngôi chùa của những kỷ lục như: Khu chùa rộng nhất Việt Nam, thờ Tượng Phật bằng đồng lớn nhất Đông Nam Á v.v…. Tham quan Khu du lịch Tràng An - nơi có cảnh quan ngoạn mục với hệ thống sông, suối đan xen nối dài chảy tràn trong các thung lũng, các hang xuyên thủy động và các dãy núi đá vôi trùng điệp. KDL nằm trong quần thể danh thắng Tràng An đã được UNESCO công nhận di sản hỗn hợp đầu tiên của Việt Nam và khu vực Đông Nam Á (đạt cả hai tiêu chí về văn hóa và thiên nhiên) vào ngày 25/6/2014 vừa qua. Trở về Hà Nội. Nghỉ đêm tại Hà Nội.",
+    "moTa3" : "NGÀY 03: HÀ NỘI - HẠ LONG (Ăn sáng, trưa, chiều) Sau bữa sáng, đến viếng quảng trường Ba Đình, khu di tích Phủ Chủ tịch. Ngắm hồ Tây, hồ Trúc Bạch, viếng chùa Trấn Quốc - danh lam cổ tự được xây dựng từ thế kỷ VI; Văn Miếu, Quốc Tử Giám - từng là trung tâm thờ tự và giáo dục Nho học lớn nhất, đã từng đào tạo hàng nghìn hiền tài cho đất nước. Khởi hành đến Hạ Long. Buổi chiều tối, quý khách tự do khám phá phố biển Hạ Long. Nghỉ đêm tại Hạ Long. Lựa chọn (tự túc chi phí di chuyển & tham quan): Tham quan Khu Du Lịch Đảo Tuần Châu, xem biểu diễn cá heo - hải cẩu - sư tử biển, xiếc thú, biểu diễn vũ điệu nhạc nước và ánh sáng laser, game trong nhà, xe điện dụng, xe ngựa hào hoa, chiếu phim 5D, triễn lãm hoa đăng, biễu diễn ca múa nhạc. Tham quan Quần thể Du lịch - Giải trí Sun World Hạ Long Park, gồm 2 khu công viên vui chơi ven biển Bãi Cháy và trên núi Ba Đèo - kết nối với nhau bởi hệ thống cáp treo vượt biển Nữ Hoàng đạt 2 kỷ lục thế giới (cabin có sức chứa lớn nhất thế giới và cáp treo có trụ cáp cao nhất thế giới so với mặt đất). Trải nghiệm các trò chơi mạo hiểm, Vòng quay Mặt Trời - một trong những vòng quay cao nhất thế giới,..."
+  }, {
+    "hinh1" : "https://firebasestorage.googleapis.com/v0/b/tourmanager-7dcde.appspot.com/o/ChiTietTour%2Fhinh1_hue.jpg?alt=media&token=af43319e-39dd-4169-b0f2-5425cc5f0f19",
+    "hinh2" : "https://firebasestorage.googleapis.com/v0/b/tourmanager-7dcde.appspot.com/o/ChiTietTour%2Fhinh2_hue.jpg?alt=media&token=7667cade-22dc-4bc0-a8ee-cf7faa691cce",
+    "maTour" : "5",
+    "moTa1" : "NGÀY 01: TP. HỒ CHÍ MINH - HUẾ (Ăn trưa, chiều) Buổi sáng, quý khách tập trung tại cổng D1 - Ga đi trong nước, sân bay Tân Sơn Nhất. Hướng dẫn viên của Lữ hành Saigontourist đón và hỗ trợ quý khách làm thủ tục. Khởi hành ra Huế trên chuyến bay VN1370 lúc 6:15. Đến Huế, tham quan Di sản Văn hóa Thế giới Kinh Thành Huế - Hoàng cung của 13 vị Vua triều Nguyễn với các công trình tiêu biểu: Ngọ Môn, điện Thái Hoà, Tử Cấm Thành, Thế Miếu, Hiển Lâm Các, Cửu Đỉnh, Bảo tàng Cổ vật Cung đình Huế. Nhận phòng. Buổi chiều, đoàn vãng cảnh chùa Thiên Mụ - ngôi chùa cổ và nổi tiếng nhất ở đất Cố đô. Đoàn tiếp tục đến viếng lăng Minh Mạng - vị vua có nhiều đóng góp vào việc ổn định và xây dựng vương triều nhà Nguyễn, củng cố nền thống nhất quốc gia. Buổi tối tự do khám phá đất Cố đô về đêm. Nghỉ đêm tại Huế.",
+    "moTa2" : "NGÀY 02: HUẾ - ĐÀ NẴNG – CÔNG VIÊN CHÂU Á (Ăn sáng, trưa, chiều) Buổi sáng, quý khách viếng lăng vua Khải Định - chiêm ngưỡng một công trình kết hợp hài hòa giữa kiến trúc truyền thống Huế và hiện đại của Tây phương. Trả phòng. Khởi hành vào Đà Nẵng. Trên đường, ngắm biển Lăng Cô, di chuyển qua đường hầm Hải Vân - hầm đường bộ hiện đại nhất Đông Nam Á. Đến Đà Nẵng, đoàn nhận phòng. Buổi chiều tối, đoàn tham quan Công viên Châu Á – Asia Park: Công viên vui chơi hàng đầu Đông Nam Á mang đẳng cấp Quốc tế. Quý khách trải nghiệm “Vòng quay Mặt trời – Sun Wheel” thưởng ngoạn cảnh đẹp Đà Nẵng với góc nhìn mới từ độ cao 115m. Nghỉ đêm tại Đà Nẵng.",
+    "moTa3" : "NGÀY 03: ĐÀ NẴNG – SƠN TRÀ - HỘI AN – ĐÀ NẴNG (Ăn sáng, trưa, chiều) Buổi sáng. quý khách ngoạn cảnh một vòng bán đảo Sơn Trà, ngắm cảnh cảng Tiên Sa, viếng chùa Linh Ứng Bãi Bụt – ngôi chùa lớn nhất ở thành phố Đà Nẵng, chiêm bái tượng Phật Quan Thế Âm cao nhất Việt Nam. Tham quan thắng cảnh Ngũ Hành Sơn & làng nghề điêu khắc đá Hòa Hải. Tiếp tục khởi hành tham quan Phố cổ Hội An (với các công trình tiêu biểu: Chùa Cầu Nhật Bản, chùa Ông, hội quán Phúc Kiến, khu phố đèn lồng). Công Viên Ấn tượng Hội An – Tái hiện Hội An của quá khứ, một cảng thị quốc tế sầm uất với sự hiện diện của các nền văn hóa Á, Âu với rất nhiều mini shows tương tác như Trại Hò Đả Hổ, Bà Chúa Tằm Tang, Phụng Nguyệt Tửu Lầu, Đám cưới của Ngọc Hoa Công Chúa; tìm hiểu nghề nuôi tằm ươm tơ, trải nghiệm quay tơ dệt lụa bằng khung cửi truyền thống, làm bánh đậu xanh Hội An, thưởng thức trà đạo phong cách Nhật Bản …. Đặc biệt xem Show “Ký Ức Hội An” - vở diễn thực cảnh ngoài trời với số lượng diễn viên đạt kỷ lục Việt Nam, tái hiện nhịp nhàng sinh động miền ký ức Faifo đa văn hóa: Champa, Bồ Đào Nha, Nhật, Trung… chứng kiến cuộc sống thôn quê bình dị bên dòng sông Hoài, khoảnh khắc hùng tráng trong lịch sử, nét hoàng kim của cảng thị một thời hay phố Hội nhộn nhịp của hiện tại... Sau khi xem show đoàn quay về Đà Nẵng. Nghỉ đêm tại Đà Nẵng"
+  } ],
+  "CungCapPhuongTien" : [ null, {
+    "phuongTienKey" : "1",
+    "sucChua" : 0,
+    "tourKey" : "1"
+  }, {
+    "phuongTienKey" : "1",
+    "sucChua" : 0,
+    "tourKey" : "2"
+  }, {
+    "phuongTienKey" : "2",
+    "sucChua" : 0,
+    "tourKey" : "1"
+  }, {
+    "phuongTienKey" : "2",
+    "sucChua" : 0,
+    "tourKey" : "4"
+  }, {
+    "phuongTienKey" : "3",
+    "sucChua" : 0,
+    "tourKey" : "1"
+  }, {
+    "phuongTienKey" : "3",
+    "sucChua" : 0,
+    "tourKey" : "3"
+  }, {
+    "phuongTienKey" : "3",
+    "sucChua" : 0,
+    "tourKey" : "5"
+  } ],
+  "DatTour" : {
+    "-LueHY-9sx3g1wOdBTI2" : {
+      "maKH" : "2",
+      "ngayDat" : "2019-11-27",
+      "phuongTienKey" : "1",
+      "soLuongNL" : "5",
+      "soLuongTE" : "5",
+      "thanhTien" : "3550000",
+      "tourKey" : "3"
+    },
+    "-LukRRGLvhuPpE6GhpMi" : {
+      "maKH" : "1",
+      "ngayDat" : "2019-11-28",
+      "phuongTienKey" : "1",
+      "soLuongNL" : "10",
+      "soLuongTE" : "0",
+      "thanhTien" : "4400000",
+      "tourKey" : "4"
+    }
+  },
+  "DoiTac" : [ null, {
+    "diaChi" : "46 Quang Trung, TP.Đà Lạt",
+    "name" : "Khách sạn Hoa Hồng",
+    "sdt" : "035874585"
+  }, {
+    "diaChi" : "55 Lê Thánh Tôn, TP.Đà Lạt",
+    "name" : "Khách sạn Lavender",
+    "sdt" : "0369112233"
+  }, {
+    "diaChi" : "30 Tôn Đức THắng, Tp. HCM",
+    "name" : "Cáp treo Bà Rịa",
+    "sdt" : "0355677554"
+  }, {
+    "diaChi" : "23/36 Lê Trọng Tấn, Tp.HCM",
+    "name" : "home stay Phuc Ho",
+    "sdt" : "0944252997"
+  }, {
+    "diaChi" : "số 1 Nguyễn Chích, Tp.HCM",
+    "name" : "Khu du lịch sinh thái Suối Mơ",
+    "sdt" : "0123456997"
+  }, {
+    "diaChi" : "23/52 Đỗ đức dục, Tp.Nha Trang",
+    "name" : "Khách sạn Thăng Hoa",
+    "sdt" : "0922123456"
+  }, {
+    "diaChi" : "1255 Nguyễn Thới Bình, Tp. Cà Mau",
+    "name" : "Khách sạn Mường Thanh",
+    "sdt" : "0965222333"
+  }, {
+    "diaChi" : "23/45 Quang Trung Chính , Tp.Đà Lạt",
+    "name" : "Ngôi Nhà Màu Xanh",
+    "sdt" : "0944125435"
+  }, {
+    "diaChi" : "Số 2, Lê Hồng Phong, Tp.Đà Lạt",
+    "name" : "Ngôi nhà màu tím lịm",
+    "sdt" : "0404123456"
+  }, {
+    "diaChi" : "455 Hòa Bình, Tp.Đà Lạt",
+    "name" : "Home stay Chúng mình",
+    "sdt" : "1234009977"
+  } ],
+  "Hang" : [ null, {
+    "diaChi" : "40 Lê Trọng Tấn",
+    "name" : "Việt Nam Airline",
+    "sdt" : "19002098"
+  }, {
+    "diaChi" : "266 Lê Hồng Phong, TP.Hồ Chí Minh",
+    "name" : "Thành Bưởi",
+    "sdt" : "19006079"
+  }, {
+    "diaChi" : "61 Lê Hồng Phong, Tp.HCM",
+    "name" : "Nhà xe Thắng",
+    "sdt" : "0123445667"
+  }, {
+    "diaChi" : "55 Hòa Bình, Tp.HCM",
+    "name" : "Nhà xe Lệ Hoa",
+    "sdt" : "09887766552"
+  }, {
+    "diaChi" : "255 Tô Hiệu, Tp.HCM",
+    "name" : "Vietjeck",
+    "sdt" : "0123456885"
+  }, {
+    "diaChi" : "225 Trần Văn Thời, Tp.HCM",
+    "name" : "Nhà xe Đại Nghĩa",
+    "sdt" : "12345667711"
+  }, {
+    "diaChi" : "225 Kênh Tân Hóa, Tp.HCM",
+    "name" : "Grapcar",
+    "sdt" : "09224455662"
+  }, {
+    "diaChi" : "224 Lũy Bán Bích, Tp.HCM",
+    "name" : "Nhà xe Thành Phát",
+    "sdt" : "0122446775"
+  }, {
+    "diaChi" : "225 Thành Phát, Tp.HCM",
+    "name" : "Việt Start",
+    "sdt" : "09887766542"
+  } ],
+  "HuongDanVien" : [ null, {
+    "avartar" : "https://firebasestorage.googleapis.com/v0/b/tourmanager-7dcde.appspot.com/o/HuongDanVien%2Fhdv1.jpg?alt=media&token=45820abd-eebe-4c90-a6f6-653bf5e176a0",
+    "name" : "Nguyễn Thành Nam",
+    "sdt" : "0389112233"
+  }, {
+    "avartar" : "https://firebasestorage.googleapis.com/v0/b/tourmanager-7dcde.appspot.com/o/HuongDanVien%2Fhdv2.jpg?alt=media&token=58f4cc35-89dd-487d-9b08-7366240d4021",
+    "name" : "Nguyễn Ngô Thanh Phú",
+    "sdt" : "0356445566"
+  } ],
+  "KhachHang" : [ null, {
+    "avartar" : "https://firebasestorage.googleapis.com/v0/b/tourmanager-7dcde.appspot.com/o/KhachHang%2Fkh1.jpg?alt=media&token=e46fab6b-a1df-497a-94b3-249977dd5e14",
+    "diaChi" : "30 Phan Huy Ích",
+    "email" : "hphuc5453@gmail.com",
+    "loaiKHKey" : "1",
+    "name" : "Lê Hoàng Phúc",
+    "sdt" : "0389112233"
+  }, {
+    "avartar" : "https://firebasestorage.googleapis.com/v0/b/tourmanager-7dcde.appspot.com/o/KhachHang%2Fkh1.jpg?alt=media&token=e46fab6b-a1df-497a-94b3-249977dd5e14",
+    "diaChi" : "150 Le Trong Tan",
+    "email" : "thanhnam@gmail.com",
+    "loaiKHKey" : "1",
+    "name" : "Nguyen Thanh Nam",
+    "sdt" : "035478541"
+  } ],
+  "LoaiDichVu" : [ null, {
+    "name" : "Khách sạn"
+  }, {
+    "name" : "Cáp treo"
+  }, {
+    "name" : "Thuê xe máy"
+  } ],
+  "LoaiKH" : [ null, {
+    "name" : "Người lớn"
+  }, {
+    "name" : "Trẻ em"
+  } ],
+  "LoaiPhuongTien" : [ null, {
+    "name" : "Máy bay"
+  }, {
+    "name" : "Xe du lịch"
+  } ],
+  "LoaiTour" : [ null, {
+    "name" : "Trong nước"
+  }, {
+    "name" : "Nước ngoài"
+  }, {
+    "name" : "Tour chùm"
+  } ],
+  "NhanVien" : [ null, {
+    "avartar" : "https://firebasestorage.googleapis.com/v0/b/tourmanager-7dcde.appspot.com/o/KhachHang%2Fkh1.jpg?alt=media&token=e46fab6b-a1df-497a-94b3-249977dd5e14",
+    "diaChi" : "30 Phan Huy Ích",
+    "email" : "hphuc5453@gmail.com",
+    "gioiTinh" : "Nam",
+    "loaiKHKey" : "1",
+    "name" : "Lê Hoàng Phúc",
+    "sdt" : "0389112233"
+  } ],
+  "PhanHoi" : {
+    "1" : {
+      "danhgia" : "5",
+      "email" : "abc@gmail.com",
+      "noiDung" : "Đã đi Đà Lạt rất nhiều lần nhưng vẫn muốn đi tiếp. Thích nhất vẫn là khí hậu ở đây. Hẹn Đà Lạt một ngày gần nhất"
+    },
+    "2" : {
+      "danhgia" : "4",
+      "email" : "abc@gmail.com",
+      "noiDung" : "2 ngày đầu ở lì trong Vinper, k tìm hiểu gì Ngày thứ 3 mới mò ra ngoài thuê de máy đi chơi,lúc đó mới biết có nhiều chỗ tham quan.😓 phải nói là phúc quốc đẹp hết sức còn có 2 ngày chơi ở ngoài nên k đi được hết.Nhưng sẽ phải quay lại"
+    },
+    "-LuSusgkNJPXa5xkS4GJ" : {
+      "danhGia" : 4,
+      "email" : "hphuc5453@gmail.com",
+      "noiDung" : "ok"
+    }
+  },
+  "PhuongTien" : [ null, {
+    "gia" : 1200000,
+    "hangKey" : "1",
+    "loaiPhuongTienKey" : "1",
+    "name" : "Boing191",
+    "sucChua" : 20
+  }, {
+    "gia" : 1000000,
+    "hangKey" : "2",
+    "loaiPhuongTienKey" : "2",
+    "name" : "Thành Công",
+    "sucChua" : 0
+  }, {
+    "gia" : 2000000,
+    "hangKey" : "1",
+    "loaiPhuongTienKey" : "1",
+    "name" : "Air-9115",
+    "sucChua" : 60
+  } ],
+  "TinhTrangHDV" : [ null, {
+    "huongDanVienKey" : "1",
+    "ngayDanTour" : "2019-10-01",
+    "tinhTrang" : "1",
+    "tourKey" : "1"
+  } ],
+  "Tour" : [ null, {
+    "bangGiatourKey" : "1",
+    "diemDen" : "TP.Đà Lạt",
+    "diemDi" : "Tp.Hồ Chí Minh",
+    "hinhAnh" : "https://firebasestorage.googleapis.com/v0/b/tourmanager-7dcde.appspot.com/o/Tour%2FLam-Vien-Square-dalat.jpg?alt=media&token=c960b4fd-7865-43c7-bacb-94d459468119",
+    "loaiTourKey" : "1",
+    "moTa" : "Đà Lạt đẹp cả bốn mùa: mùa xuân hồng thắm sắc đào, mùa hè lãng mạn phượng tím, mùa thu cúc bất tử nở rộ, mùa đông vàng rực mùa hoa dã quỳ và mimosa",
+    "name" : "Du lịch Đà Lạt",
+    "ngayDi" : "2019-10-01",
+    "ngayVe" : "2019-10-04",
+    "phuongTienKey" : "1",
+    "thoiGian" : "3 ngày 2 đêm"
+  }, {
+    "bangGiatourKey" : "3",
+    "diemDen" : "Phú Quốc",
+    "diemDi" : "Tp.Hồ Chí Minh",
+    "hinhAnh" : "https://firebasestorage.googleapis.com/v0/b/tourmanager-7dcde.appspot.com/o/Tour%2Ftour_phuquoc.jpg?alt=media&token=6516a435-8fb2-4133-8bd9-634f3c834d91",
+    "loaiTourKey" : "1",
+    "moTa" : "Sỡ hữu nhiều bãi tắm tuyệt đẹp trải dài từ bắc đến nam, nước biển trong xanh màu ngọc bích, cát vàng óng ánh, không khí trong lành, nhiều trò chơi giải trí, đảo Ngọc Phú Quốc xứng đáng được mệnh danh là thiên đường trăng mật của Việt Nam.",
+    "name" : "Du lịch Phú Quốc",
+    "ngayDi" : "2019-11-01",
+    "ngayVe" : "2019-11-03",
+    "phuongTienKey" : "2",
+    "thoiGian" : "3 ngày 2 đêm"
+  }, {
+    "bangGiatourKey" : "2",
+    "diemDen" : "Phan Thiết",
+    "diemDi" : "Cần Thơ",
+    "hinhAnh" : "https://firebasestorage.googleapis.com/v0/b/tourmanager-7dcde.appspot.com/o/Tour%2Fphanthiet.jpg?alt=media&token=ce3cdf2c-22cd-48be-851b-c3a2acb39437",
+    "loaiTourKey" : "1",
+    "moTa" : "Tour này có gì hay- Tham quan Trường Dục Thanh, Vạn Thủy Tú – Nơi trưng bày Bộ xương Cá Voi khổng lồ. Chinh phục Đồi Cát Hồng – Tiểu sa mạc Cát Vàng",
+    "name" : "DU LỊCH PHAN THIẾT",
+    "ngayDi" : "28/12/2019",
+    "ngayVe" : "30/12/2019",
+    "phuongTienKey" : "2",
+    "thoiGian" : "3 ngày 2 đêm"
+  }, {
+    "bangGiatourKey" : "3",
+    "diemDen" : "Hà Nội - Hạ Long - Sapa - Ninh Bình",
+    "diemDi" : "TP. Hồ Chí Minh",
+    "hinhAnh" : "https://firebasestorage.googleapis.com/v0/b/tourmanager-7dcde.appspot.com/o/Tour%2Fninhbinh.jpg?alt=media&token=98f6f78f-5807-4aa5-a98b-ebbfa1ac4bce",
+    "loaiTourKey" : "1",
+    "moTa" : "Tham quan khu du lịch Tràng An - nơi có cảnh quan ngoạn mục với hệ thống sông, suối chảy tràn trong các thung lũng, các hang xuyên thủy động và các dãy núi đá vôi trùng điệp. Du ngoạn vịnh Hạ Long - một trong 7 kỳ quan thiên nhiên mới của thế giới, chiêm ngưỡng động Thiên Cung, các hòn Đỉnh Hương - Trống Mái (Gà Chọi)- Chó Đá",
+    "name" : "HẠ LONG - NINH BÌNH",
+    "ngayDi" : "03/12/2019",
+    "ngayVe" : "17/12/2019",
+    "phuongTienKey" : "1",
+    "thoiGian" : "3 ngày 2 đêm"
+  }, {
+    "bangGiatourKey" : "1",
+    "diemDen" : "Huế - Đà Nẵng",
+    "diemDi" : "TP. Hồ Chí Minh",
+    "hinhAnh" : "https://firebasestorage.googleapis.com/v0/b/tourmanager-7dcde.appspot.com/o/Tour%2Fhue.jpg?alt=media&token=ab6de499-71c7-4a8d-a49e-857149d6568c",
+    "loaiTourKey" : "1",
+    "moTa" : "Đắm mình trong không gian cổ kính của Kinh Thành Huế. Thư thả tản bộ tại Phố cổ với các công trình tiêu biểu: Chùa Cầu Nhật Bản, chùa Ông, hội quán Phúc Kiến, khu phố đèn lồng. Dạo bước trên Cầu Vàng tọa lạc tại Vườn Thiên Thai, với thiết kế độc đáo và ấn tượng, đầy mềm mại tựa một dải lụa, được nâng đỡ bởi đôi bàn tay khổng lồ loang lổ rêu phong giữa cảnh sắc nên thơ tuyệt diệu của Bà Nà – Núi Chúa.",
+    "name" : "DU LỊCH TẠI HUẾ - ĐÀ NẴNG- HỘI AN - BÀ NÀ - CẦU VÀNG",
+    "ngayDi" : " 28/11/2019",
+    "ngayVe" : " 30/11/2019",
+    "phuongTienKey" : "1",
+    "thoiGian" : "3 ngày 2 đêm"
+  } ],
+  "TourDichVu" : [ null, {
+    "ctCungCapDVKey" : "2",
+    "giaDichVu" : "300000",
+    "name" : "Cáp treo Đà Lạt",
+    "tourKey" : "1"
+  }, {
+    "ctCungCapDVKey" : "2",
+    "giaDichVu" : "250000",
+    "name" : "Nhà thờ con gà",
+    "tourKey" : "2"
+  }, {
+    "ctCungCapDVKey" : "3",
+    "giaDichVu" : "300000",
+    "name" : "Khu vui chơi Bò Cạp Vàng",
+    "tourKey" : "3"
+  }, {
+    "ctCungCapDVKey" : "1",
+    "giaDichVu" : "400000",
+    "name" : "Xe điện tham quan Hồ Xuân Hương",
+    "tourKey" : "4"
+  }, {
+    "ctCungCapDVKey" : "5",
+    "giaDichVu" : "500000",
+    "name" : "Chèo thuyền giải trí cao cực mạnh",
+    "tourKey" : "5"
+  }, {
+    "ctCungCapDVKey" : "5",
+    "giaDichVu" : "600000",
+    "name" : "Địa đạo Củ Chi",
+    "tourKey" : "5"
+  }, {
+    "ctCungCapDVKey" : "5",
+    "giaDichVu" : "450000",
+    "name" : "Nhà ma Đà lạt",
+    "tourKey" : "1"
+  }, {
+    "ctCungCapDVKey" : "5",
+    "giaDichVu" : "250000",
+    "name" : "Đạp vịt Hồ Xuân Hương",
+    "tourKey" : "3"
+  }, {
+    "ctCungCapDVKey" : "6",
+    "giaDichVu" : "500000",
+    "name" : "Langbiang",
+    "tourKey" : "5"
+  }, {
+    "ctCungCapDVKey" : "3",
+    "giaDichVu" : "400000",
+    "name" : "Cáp treo Đồi Thông",
+    "tourKey" : "1"
+  } ]
+}

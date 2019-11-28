@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:background="@drawable/settings"
+        android:textSize="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:background="@drawable/logo"
+        android:layout_width="300dp"
+        android:layout_height="200dp"></ImageView>
+    
+    <Button
+        android:id="@+id/btnDangXuat"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:background="@drawable/dangxuat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"></Button>
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bogoc"
+        android:orientation="vertical">
+        <TextView
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/roboto_slab_light"
+            android:text="THÔNG TIN"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/roboto_slab_light"
+            android:text="Lữ hành Saigontourist, thương hiệu lữ hành hàng đầu Việt Nam Thương hiệu quốc gia"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/roboto_slab_light"
+            android:text="Tổng đài: 1900 1808"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:fontFamily="@font/roboto_slab_light"
+            android:text="Email: info@saigontourist.net"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.TourDetailFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginTop="-50dp"
+                    android:id="@+id/imgTourDetail"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <TextView
+                    android:fontFamily="@font/roboto_slab_light"
+                    android:layout_marginBottom="20dp"
+                    android:layout_alignParentBottom="true"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="25dp"
+                    android:id="@+id/txtTourDetailName"
+                    android:layout_marginLeft="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:fontFamily="@font/roboto_slab_light"
+                    android:textSize="20dp"
+                    android:layout_margin="10dp"
+                    android:id="@+id/txtMoTa"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:fontFamily="@font/roboto_slab_light"
+                    android:textSize="20dp"
+                    android:layout_margin="10dp"
+                    android:id="@+id/txtMoTa1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+                <ImageView
+                    android:id="@+id/hinh1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"></ImageView>
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:fontFamily="@font/roboto_slab_light"
+                    android:textSize="20dp"
+                    android:layout_margin="10dp"
+                    android:id="@+id/txtMoTa2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+                <ImageView
+                    android:id="@+id/hinh2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"></ImageView>
+
+                <TextView
+                    android:fontFamily="@font/roboto_slab_light"
+                    android:layout_margin="10dp"
+                    android:textSize="20dp"
+                    android:id="@+id/txtMoTa3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"></TextView>
+            </LinearLayout>
+
+            <LinearLayout
+                android:background="@drawable/bogoc_edittext"
+                android:layout_marginHorizontal="20dp"
+                android:orientation="horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:fontFamily="@font/roboto_slab_light"
+                    android:textStyle="bold"
+                    android:textSize="25dp"
+                    android:text="Reviews"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                    <Button
+                        android:layout_marginLeft="150dp"
+                        style="@style/Widget.AppCompat.Button.Borderless"
+                        android:background="@drawable/addreview"
+                        android:id="@+id/btnReview"
+                        android:layout_gravity="center"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <Button
+                    android:fontFamily="@font/roboto_slab_light"
+                    android:layout_alignParentBottom="true"
+                    android:id="@+id/btnDatTour"
+                    android:layout_centerHorizontal="true"
+                    android:background="@drawable/button_register"
+                    android:text="Đặt Tour"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+</androidx.cardview.widget.CardView>

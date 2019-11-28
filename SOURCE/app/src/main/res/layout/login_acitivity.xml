@@ -1,0 +1,116 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@drawable/background"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/bogoc"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:fontFamily="@font/roboto_slab_light"
+            android:id="@+id/tvLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="130dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="5dp"
+            android:text="LOG IN"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:fontFamily="@font/roboto_slab_light"
+            android:inputType="textEmailAddress"
+            android:id="@+id/edtUser"
+            android:layout_width="350dp"
+            android:layout_height="67dp"
+            android:layout_below="@+id/tvLogin"
+            android:layout_alignParentStart="true"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/bogoc"
+            android:hint="Email:" />
+
+        <EditText
+            android:fontFamily="@font/roboto_slab_light"
+            android:inputType="textPassword"
+            android:id="@+id/edtPassword"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_below="@+id/edtUser"
+            android:layout_alignParentStart="true"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/bogoc"
+            android:hint="Password:" />
+
+        <Button
+            android:id="@+id/btnSignIn"
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+            android:layout_below="@+id/edtPassword"
+            android:layout_marginHorizontal="20dp"
+            android:background="@drawable/login"
+            android:textStyle="normal" />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="12dp"
+        android:src="@drawable/spector"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/relativeLayout" />
+    <RelativeLayout
+        android:layout_width="350dp"
+        android:layout_height="208dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="40dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/relativeLayout">
+
+        <Button
+            android:id="@+id/btnSkip"
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+            android:layout_below="@+id/btnSignUp"
+            android:layout_marginBottom="1sp"
+            android:background="@drawable/skip"
+            />
+
+        <Button
+            android:id="@+id/btnSignUp"
+            android:background="@drawable/signup"
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+            android:layout_below="@+id/btnSignUpFacebook"
+            android:layout_marginBottom="5dp"
+            />
+
+        <Button
+            android:id="@+id/btnSignUpFacebook"
+            android:background="@drawable/loginfacebook"
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="3dp"
+            android:layout_marginBottom="5dp" />
+    </RelativeLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

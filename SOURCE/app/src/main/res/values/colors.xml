@@ -3,4 +3,14 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="whiteColorNav">#ffffff</color>
+    <color name="xam">#EEEEEE</color>
+
+    <color name="cam">#f6502e</color>
+
+    <color name="FB">#4267b2</color>
+    /*opacity 80%
+    <color name="white1">#AEFFFFFF</color>
+    /*opacity 0%/
+    <color name="white2">#00FFFFFF</color>
 </resources>
