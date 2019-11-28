@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "839866213663",
+    "firebase_url": "https://tourmanager-7dcde.firebaseio.com",
+    "project_id": "tourmanager-7dcde",
+    "storage_bucket": "tourmanager-7dcde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839866213663:android:4b27bca9b52fa39e483c2a",
+        "android_client_info": {
+          "package_name": "app.android.da_android_tour_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839866213663-vdrmme23jd6vke348c0hfo3afkehbpuh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.android.da_android_tour_manager",
+            "certificate_hash": "e065339c473396b3aff4d479aff48b6bb5ad5963"
+          }
+        },
+        {
+          "client_id": "839866213663-1fdu4up7oopnnbk4b1em637ufcdhr6nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7BOFtHL1AO07uqPXa9Jm5fHaQyzJDwiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839866213663-1fdu4up7oopnnbk4b1em637ufcdhr6nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

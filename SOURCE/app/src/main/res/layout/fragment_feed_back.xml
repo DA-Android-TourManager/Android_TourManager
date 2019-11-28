@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.FeedBack"
+    android:background="@color/xam">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvFeedback"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/feedback"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center"
+                android:layout_marginTop="50dp"
+                android:layout_marginBottom="10dp"
+                android:textSize="30dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:fontFamily="@font/roboto_slab_light"
+                android:id="@+id/tvTenTour"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+            />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/Linear_FeedBack"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <RelativeLayout
+                        android:id="@+id/relativePhanHoi"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="10dp"
+                        android:layout_marginTop="50dp"
+                        android:background="@drawable/bogoc"
+                        android:backgroundTint="@color/white1">
+
+                        <TextView
+                            android:fontFamily="@font/roboto_slab_light"
+                            android:id="@+id/tvThongTinPhanHoi"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+
+                            android:layout_alignParentTop="true"
+                            android:layout_centerHorizontal="true"
+
+                            android:layout_marginTop="40dp"
+                            android:layout_marginBottom="40dp"
+                            android:text="Thông tin phản hồi"
+                            android:textSize="20dp"
+                            android:textStyle="bold" />
+
+                        <EditText
+                            android:fontFamily="@font/roboto_slab_light"
+                            android:id="@+id/edtUser"
+                            android:layout_width="match_parent"
+                            android:layout_height="67dp"
+                            android:layout_below="@+id/tvThongTinPhanHoi"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginHorizontal="10dp"
+                            android:layout_marginBottom="10dp"
+                            android:background="@drawable/bogoc"
+                            android:drawableStart="@android:drawable/ic_dialog_email"
+                            android:hint="Email:"
+                            android:inputType="textEmailAddress" />
+
+                        <EditText
+                            android:fontFamily="@font/roboto_slab_light"
+                            android:id="@+id/edtMoTa"
+                            android:layout_width="match_parent"
+                            android:layout_height="150dp"
+                            android:layout_below="@+id/edtUser"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginHorizontal="10dp"
+                            android:layout_marginBottom="20dp"
+                            android:background="@drawable/bogoc"
+                            android:gravity="top"
+                            android:hint="Mô tả:" />
+
+                        <RatingBar
+                            android:id="@+id/rating_feedback"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/edtMoTa"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginBottom="20dp" />
+
+                        <Button
+                            android:fontFamily="@font/roboto_slab_light"
+                            android:id="@+id/btnGui"
+                            android:layout_width="match_parent"
+                            android:layout_height="65dp"
+                            android:layout_below="@id/rating_feedback"
+                            android:layout_marginHorizontal="10dp"
+                            android:layout_marginBottom="20dp"
+                            android:background="@drawable/bogoc"
+                            android:backgroundTint="@color/cam"
+                            android:text="Send"
+                            android:textColor="@android:color/background_light"
+                            android:textStyle="normal" />
+
+
+                    </RelativeLayout>
+                </LinearLayout>
+            </ScrollView>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/relative_CamOn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="10dp"
+                android:layout_marginTop="50dp"
+                android:background="@drawable/bogoc"
+                android:backgroundTint="@color/white1">
+
+                <TextView
+                    android:id="@+id/tvCamOn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+
+                    android:layout_gravity="center"
+                    android:layout_marginTop="50dp"
+                    android:text="Cám ơn bạn đã tham gia chuyến đi"
+                    android:textSize="30dp"
+                    android:textStyle="bold"
+                    android:textAlignment="center"
+                    android:layout_marginHorizontal="50dp"
+                    android:layout_marginBottom="50dp"/>
+                />
+
+
+                <Button
+
+                    android:id="@+id/btnQuayLai"
+                    android:layout_width="match_parent"
+                    android:layout_height="65dp"
+                    android:layout_below="@id/tvCamOn"
+                    android:layout_marginHorizontal="10dp"
+                    android:layout_marginBottom="20dp"
+                    android:background="@drawable/bogoc"
+                    android:backgroundTint="@color/cam"
+                    android:text="QuayLai"
+                    android:textColor="@android:color/background_light"
+                    android:textStyle="normal" />
+
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</FrameLayout>

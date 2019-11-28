@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".fragment.RegisterActivity">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/bogoc"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/tvLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="48dp"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/roboto_slab_light"
+            android:text="Sign Up"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:fontFamily="@font/roboto_slab_light"
+            android:inputType="textEmailAddress"
+            android:id="@+id/edtEmail"
+            android:layout_width="350dp"
+            android:layout_height="67dp"
+            android:layout_below="@+id/tvLogin"
+            android:layout_alignParentStart="true"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/bogoc"
+            android:hint="abc123@gmail.com" />
+
+        <EditText
+            android:fontFamily="@font/roboto_slab_light"
+            android:inputType="textPassword"
+            android:id="@+id/edtPassword"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_below="@+id/edtEmail"
+            android:layout_alignParentStart="true"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/bogoc"
+            android:hint="Password:" />
+
+        <EditText
+            android:fontFamily="@font/roboto_slab_light"
+            android:inputType="textPassword"
+            android:id="@+id/edtConfirmPassword"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_below="@+id/edtPassword"
+            android:layout_alignParentStart="true"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/bogoc"
+            android:hint="Confirm Password:" />
+
+        <Button
+            android:fontFamily="@font/roboto_slab_light"
+            android:id="@+id/btnSignUp"
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+            android:layout_below="@+id/edtConfirmPassword"
+            android:layout_marginHorizontal="20dp"
+            android:text="Sign Up"
+            android:background="@drawable/button_register"
+            android:textStyle="normal" />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="12dp"
+        android:src="@drawable/spector"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/relativeLayout" />
+
+    <RelativeLayout
+        android:layout_width="350dp"
+        android:layout_height="160dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="40dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/relativeLayout">
+
+        <Button
+            android:id="@+id/btnSignUpFacebook"
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+            android:layout_marginTop="3dp"
+            android:background="@drawable/loginfacebook" />
+
+        <Button
+            android:fontFamily="@font/roboto_slab_light"
+            android:id="@+id/btnComebackLogin"
+            android:layout_width="fill_parent"
+            android:textSize="20dp"
+            android:layout_height="65dp"
+            android:layout_alignBottom="@id/btnSignUpFacebook"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="-74dp"
+            android:background="@null"
+            android:text="@string/btn_link_to_login"
+            android:textAllCaps="false"
+            android:textColor="@android:color/white" />
+    </RelativeLayout>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
